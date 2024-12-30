@@ -4,14 +4,14 @@ Bem-vindo ao meu portfólio de projetos na área de ciência e análise de dados
 
 ## Projetos em Destaque
 
-### [1. Análise de Reviews](Machine-Learning/blob/main/Hotmart.ipynbprojects/Hotmart.ipynb)
+### [1. Análise de Reviews](Hotmart.ipynb)
 - **Descrição**: Análise detalhada das Reviews submetidas pelos usuário de uma loja virtual usando Python e Pandas.
 - **Tecnologias**: Python, Pandas, Matplotlib, Seaborn.
 - **Destaques**:
   - Número de avaliações ao longo do tempo.
   - Análise de Sentimentos.
 
-### [2. Análise Exploratória para otimizar suas campanhas de marketing](Machine-Learning/blob/main/campanhas_de_marketing.ipynb)
+### [2. Análise Exploratória para otimizar suas campanhas de marketing](campanhas_de_marketing.ipynb)
 - **Descrição**:  análise exploratória e aplicadas técnicas de agrupamento para identificar padrões de comportamento.
 - **Tecnologias**: Python, Pandas, Scikit-learn, Matplotlib.
 - **Destaques**:
